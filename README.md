@@ -1,2 +1,2 @@
-FRTB SBM Sample Calculation
-Operational Risk
+FRTB SBM Sample Calculation.
+Operational Risk.
